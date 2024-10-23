@@ -91,3 +91,5 @@ console.log("Hej Onsdag!");
 //     console.log("Ogiltigt val, försök igen, välj en siffra mellan 1-3.");
 //   }
 // } while (choice !== 3);
+
+//
